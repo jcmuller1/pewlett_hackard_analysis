@@ -16,3 +16,10 @@ The purpose of this analysis was to gain insight into the demographics of employ
 
 ## Summary
  
+![count_retiring](resources/count_retiring.png)
+ 
+If all employees of retirement age were to retire as part of the silver tsunami, 72,458 positions would need to be filled. This is an incredibly large number and will likely necessitate swift action from Pewlett Hackard.
+
+![count_mentor](resources/count_mentor.png)
+
+With only 1,549 employees eligible to act as mentors, Pewlett Hackard is not sufficiently equipped to mentor its next generation of employees.
